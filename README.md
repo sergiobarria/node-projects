@@ -6,5 +6,6 @@
 | 01 | Task Manager | Basic task manager project (todo list style) to handle CRUD operations |          |
 | 02 | Store API    | Basic API for a fictional store using advanced query features          |          |
 | 03 | JWT Basics   | Authentication and Authorization basics                                |          |
+| 04 | Jobs API     | Simple API to CRUD job applications using user auth                    |          |
 |    |              |                                                                        |          |
  
