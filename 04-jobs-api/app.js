@@ -34,6 +34,9 @@ app.use(
   })
 );
 
+app.get('/', (req, res) => {
+  res.send('jobs api');
+});
 // mount routes
 app.use('/api/v1/auth', authRouter);
 app.use('/api/v1/jobs', authenticateUser, jobsRouter);
